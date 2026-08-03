@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio! I am currently completing the **Google Cy
 🟢 Course 1: Foundations of Cybersecurity
 
 
-📁 [/ Notes](./01-foundations-of-cybersecurity)
+📁 [/Foundations of Cybersecurity notes](./01-foundations-of-cybersecurity)
 
 🛡️ Course 2: Play It Safe: Manage Security Risks
 🌐 Course 3: Connect and Protect: Networks and Network Security
