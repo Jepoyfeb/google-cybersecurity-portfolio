@@ -14,5 +14,6 @@
 * **Malware:** Software specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
     * **Some of the most common types of malware attacks today include:**
       * **Viruses:** Malicious code written to interfere with computer operations and cause damage to data and software. A              virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or           file download. When someone opens the malicious attachment or download, the virus hides itself in other files in               the now-infected system. When the infected files are opened, it allows the virus to insert its own code to damage             and/or destroy data in the system.
+      * **Worms:** Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm               does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer           to other devices on the same network.
 * **Vulnerability:** A weakness in an asset, system, or process that can be exploited by a threat actor.
 * **Phishing:** The use of digital communications to trick people into revealing sensitive  data or deploying malicious software.
