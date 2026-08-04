@@ -11,10 +11,10 @@ This course lays the foundation for an entry-level Security Operations Center (S
 * 📄 **Detailed Notes & Key Terms:** [View Analyst Role Notes & Glossary](./01-analyst-role-notes.md)
 
 
-2. Evolution of Cyber Threats
-Explored historical security breaches and how attack methods have changed over time.
-
-Studied different threat actor motivations (financial gain, disruption, espionage) and common attack vectors.
+### 2. Evolution of Cyber Threats
+* Explored historical security breaches and how attack methods have changed over time.
+* Studied different threat actor motivations (financial gain, disruption, espionage) and common attack vectors.
+* 📄 **Detailed Notes & Key Terms:** [View Threat Evolution Notes](./02-threat-evolution-notes.md)
 
 3. Core Security Frameworks & Rules
 CIA Triad: Applied the concepts of Confidentiality, Integrity, and Availability to real-world risk scenarios.
