@@ -1,8 +1,11 @@
-Google Cybersecurity Certificate — Course 1: Foundations of Cybersecurity
-Course Overview
-This course lays down the foundational knowledge required for an entry-level Security Operations Center (SOC) analyst role. It covers what a analyst does on a daily basis, how cyber threats have evolved, the key frameworks used to secure systems, and the basic tech stack used in security operations.
+**Google Cybersecurity Certificate — Course 1: Foundations of Cybersecurity**
 
-What I Learned & Practiced
+
+__Course Overview__
+
+This course lays down the foundational knowledge required for an entry-level Security Operations Center (SOC) analyst role. It covers what an analyst does daily, how cyber threats have evolved, the key frameworks used to secure systems, and the basic tech stack used in security operations.
+
+__What I Learned & Practiced__
 1. The Entry-Level Analyst Role
 Understood how SOC analysts monitor networks, analyze logs, and handle incident response.
 
@@ -23,13 +26,14 @@ CISSP 8 Domains & Compliance: Reviewed the high-level security domains, corporat
 4. Security Tools & Technologies
 Got introductory exposure to the essential tools used for threat detection and automation:
 
-SIEMs: Overview of tools like Google Chronicle and Splunk for log analysis.
+**SIEMs:** Overview of tools like Google Chronicle and Splunk for log analysis.
 
-Linux: Basic terminal navigation and command-line operations.
+**Linux:** Basic terminal navigation and command-line operations.
 
-SQL: Constructing queries to search and filter database records.
+**SQL:** Constructing queries to search and filter database records.
 
-Python: How scripting is used to automate repetitive security tasks.
+**Python:** How scripting is used to automate repetitive security tasks.
 
-Course Deliverable
+**Course Deliverable**
+
 Drafted a personal professional statement outlining my security career goals, focus areas, and personal ethics in IT/security operations.
