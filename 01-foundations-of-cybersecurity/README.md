@@ -22,8 +22,13 @@ This course lays the foundation for an entry-level Security Operations Center (S
 * **CISSP 8 Domains & Compliance:** Reviewed high-level security domains, corporate ethics, and regulations around data privacy.
 * 📄 **Detailed Notes & Key Terms:** [View Security Frameworks Notes](./03-security-frameworks-notes.md)
 
-4. Security Tools & Technologies
-Got introductory exposure to the essential tools used for threat detection and automation:
+### 4. Security Tools & Technologies
+* Got introductory exposure to essential tools used for threat detection and automation:
+  * **SIEMs:** Overview of tools like Google Chronicle and Splunk for log analysis.
+  * **Linux:** Basic terminal navigation and command-line operations.
+  * **SQL:** Constructing queries to search and filter database records.
+  * **Python:** Scripting fundamentals used to automate repetitive security tasks.
+* 📄 **Detailed Notes & Key Terms:** [View Tools & Tech Stack Notes](./04-security-tools-notes.md)
 
 **SIEMs:** Overview of tools like Google Chronicle and Splunk for log analysis.
 
