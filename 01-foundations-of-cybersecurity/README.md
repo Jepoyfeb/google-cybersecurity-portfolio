@@ -5,8 +5,10 @@ __Course Overview__
 
 This course lays the foundation for an entry-level Security Operations Center (SOC) analyst role. It covers what an analyst does daily, how cyber threats have evolved, the key frameworks used to secure systems, and the basic tech stack used in security operations.
 
-__What I Learned & Practiced__
-1. The Entry-Level Analyst Role
+### 1. The Entry-Level Analyst Role
+* Understood how SOC analysts monitor networks, analyze logs, and handle incident response.
+* Identified how transferable and technical skills apply directly to incident triage and reporting.
+* 📄 **Detailed Notes & Key Terms:** [View Analyst Role Notes & Glossary](./01-analyst-role-notes.md)
 
 
 2. Evolution of Cyber Threats
