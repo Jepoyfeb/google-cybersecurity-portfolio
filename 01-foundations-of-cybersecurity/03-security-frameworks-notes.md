@@ -1,5 +1,15 @@
-### 3. Core Security Frameworks & Rules
-* **CIA Triad:** Applied the concepts of Confidentiality, Integrity, and Availability to real-world risk scenarios.
-* **NIST Cybersecurity Framework (CSF):** Learned how to map security activities across its 5 core functions: *Identify, Protect, Detect, Respond,* and *Recover*.
-* **CISSP 8 Domains & Compliance:** Reviewed high-level security domains, corporate ethics, and regulations around data privacy.
-* 📄 **Detailed Notes & Key Terms:** [View Security Frameworks Notes](./03-security-frameworks-notes.md)
+# Module 3: Security Frameworks & Rules — Notes & Glossary
+
+## Key Concepts
+* **CIA Triad Applications:** Evaluated real-world scenarios to identify which leg of Confidentiality, Integrity, or Availability was compromised.
+* **NIST CSF Functions:** Applied the 5 core functions (*Identify, Protect, Detect, Respond, Recover*) to structure organizational defense.
+* **Ethics & Privacy:** Examined compliance standards and privacy regulations protecting customer and corporate data.
+
+---
+
+## Terms & Definitions
+* **Confidentiality:** Ensuring data is accessible only to authorized users.
+* **Integrity:** Ensuring data remains accurate, complete, and unaltered.
+* **Availability:** Guaranteeing systems and data are accessible to authorized users when needed.
+* **NIST CSF:** A framework consisting of standards, guidelines, and practices to manage cybersecurity-related risk.
+* **Compliance:** The process of adhering to industry standards, regulations, and laws (e.g., GDPR, HIPAA).
