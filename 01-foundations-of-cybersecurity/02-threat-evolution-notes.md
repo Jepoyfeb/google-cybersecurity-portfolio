@@ -2,6 +2,7 @@
 
 ## Key Concepts
 * **Historical Impact:** Analyzed how early security breaches and malware shaped modern defense strategies.
+    **Malware:**Software designed to harm devices or networks
 * **Threat Motivations:** Studied why threat actors target organizations (financial gain, espionage, operational disruption, hacktivism).
 * **Attack Vectors:** Identified common methods actors use to gain unauthorized access (phishing, social engineering, exploiting unpatched software).
 
