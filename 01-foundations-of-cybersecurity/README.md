@@ -30,13 +30,6 @@ This course lays the foundation for an entry-level Security Operations Center (S
   * **Python:** Scripting fundamentals used to automate repetitive security tasks.
 * 📄 **Detailed Notes & Key Terms:** [View Tools & Tech Stack Notes](./04-security-tools-notes.md)
 
-**SIEMs:** Overview of tools like Google Chronicle and Splunk for log analysis.
-
-**Linux:** Basic terminal navigation and command-line operations.
-
-**SQL:** Constructing queries to search and filter database records.
-
-**Python:** How scripting is used to automate repetitive security tasks.
 
 **Course Deliverable**
 
