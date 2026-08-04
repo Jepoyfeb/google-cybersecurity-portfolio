@@ -40,6 +40,7 @@ Got introductory exposure to the essential tools used for threat detection and a
 Drafted a personal professional statement outlining my security career goals, focus areas, and personal ethics in IT/security operations.
 
 **Terms and definitions**
+
 **Cybersecurity (or security):** The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
 
 **Cloud security:** The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users
