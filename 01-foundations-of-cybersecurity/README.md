@@ -9,7 +9,8 @@ __What I Learned & Practiced__
 1. The Entry-Level Analyst Role
 Understood how SOC analysts monitor networks, analyze logs, and handle incident response.
 
-Identified how my transferable skills—like problem-solving, attention to detail, and communication—apply directly to incident triage and reporting.
+Identified how my transferable skills—like problem-solving, attention to detail, and communication—apply directly to incident triage and reporting. Technical skills-like programming languages, Security Information and Event Management (SIEM), Intrusion Detection Systems (IDSs),
+Threat landscape knowledge, and Incident response.
 
 2. Evolution of Cyber Threats
 Explored historical security breaches and how attack methods have changed over time.
