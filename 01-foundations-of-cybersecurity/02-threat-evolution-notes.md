@@ -41,3 +41,10 @@
     * **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
     * **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
     * **Smishing:** The use of text messages to trick users into obtaining sensitive information or to impersonate a known source.
+
+* **Types of Attack:**
+  * **Password attack:** A password attack is an attempt to access password-secured devices, systems, networks, or data. Some forms of password attacks that you’ll learn about later in the certificate program are:
+       * **Brute force*
+       * **Rainbow table*
+    Password attacks fall under the 'communication and network security domain'.
+
