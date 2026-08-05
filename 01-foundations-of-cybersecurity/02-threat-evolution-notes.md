@@ -24,10 +24,12 @@
       * **Spyware:** Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
 * **Vulnerability:** A weakness in an asset, system, or process that can be exploited by a threat actor.
 * **Phishing:** The use of digital communications to trick people into revealing sensitive  data or deploying malicious software.
-  *
-      * **Some of the most common types of phishing attacks today include:**
-        * **Business Email Compromise (BEC):** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for          information, to obtain a financial advantage.
-        * **Spear phishing:** A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
-        * **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
-        * **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
-        * **Smishing:** The use of text messages to trick users into obtaining sensitive information or to impersonate a known source.
+
+  
+  * **Some of the most common types of phishing attacks today include:**
+
+    * **Business Email Compromise (BEC):** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for          information, to obtain a financial advantage.
+    * **Spear phishing:** A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+    * **Whaling:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+    * **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+    * **Smishing:** The use of text messages to trick users into obtaining sensitive information or to impersonate a known source.
